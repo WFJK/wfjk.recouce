@@ -1,0 +1,10 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public enum equipType 
+{ 
+    Œ‰∆˜,
+     Œ∆∑,
+    ∑¿æﬂ,
+}
