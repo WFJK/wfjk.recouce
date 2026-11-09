@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853c964d9bf342d4f9d084ccdbe2d211, type: 3}
+  m_Name: "\u82F9\u679C"
+  m_EditorClassIdentifier: 
+  mnName: "\u82F9\u679C"
+  mnID: 001
+  mnSprite: {fileID: 0}
+  mnInfo: "\u597D\u5403"
+  currentNum: 7
+  isStackable: 1
+  maxStack: 99
+  sellPrice: 1
+  buyPrice: 1
+  mntype: 0
+  MNLevel: 1
+  canBeConbine: 1
+  materialID_1: 
+  needNum_1: 0
+  MNlong: 0
+  MNwide: 0
